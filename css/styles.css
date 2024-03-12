@@ -46,7 +46,7 @@ body {
 
 .home {
 	height: 100vh;
-	background: url('.home.jpg3.jpgnew.jpg') no-repeat;
+	background-image: url(.home.jpg3.jpgnew.jpg);
 	background-size: cover;
 	background-position: center;
 	display: flex;
